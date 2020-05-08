@@ -12,7 +12,7 @@
     <h4> Project A : #4 </h4>
     <h5> Project A : #5 </h5>
     <h6> Project A : #6</h6>
-    <a href="www.google.com"> Google </a> 
+    <a href="https://www.google.com"> Google </a> 
   </body>
   
   
